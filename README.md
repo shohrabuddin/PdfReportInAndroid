@@ -1,8 +1,12 @@
 # PdfReportInAndroid
 
+##Introduction
+
+Sometimes you might need to generate PDF report from your android app. PDF report may help your users to take the information out of your app and share information with the outside world. In one of my recent apps I was also required to generate PDF report from my app. In this tutorial I will share my experience with you guys. However, I chose iText library to generate PDF file from android.     
+
 ##What is iText?
 
-_Text Software is a world-leading specialist in programmable PDF software libraries for professionals. Its solutions are used in sales and marketing, legal and governance, finance, IT, operations and HR by a diverse customer base that includes medical institutions, banks, governments and technology companies. The iText solution was first designed by tech visionary Bruno Lowagie in 2000 and has known continuous growth in its 15 years of existence, coupled with a healthy desire to remain at the forefront of product innovation_.
+_iText Software is a world-leading specialist in programmable PDF software libraries for professionals. Its solutions are used in sales and marketing, legal and governance, finance, IT, operations and HR by a diverse customer base that includes medical institutions, banks, governments and technology companies. The iText solution was first designed by tech visionary Bruno Lowagie in 2000 and has known continuous growth in its 15 years of existence, coupled with a healthy desire to remain at the forefront of product innovation_.
 
 ##iText for Android
 
