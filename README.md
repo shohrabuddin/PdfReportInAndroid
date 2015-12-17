@@ -85,7 +85,7 @@ import com.sias.model.ProductModel;
 import com.sias.utility.StaticValue;
 
 public class ProductListAllPDF {
-	//creating a PdfWriter variable. PdfWrite class is available at com.itextpdf.text.pdf.PdfWriter 
+	//creating a PdfWriter variable. PdfWriter class is available at com.itextpdf.text.pdf.PdfWriter 
 	private PdfWriter pdfWriter;
 	
 	//we will add some products to arrayListRProductModel to show in the PDF document
