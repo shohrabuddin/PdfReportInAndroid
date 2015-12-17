@@ -1,0 +1,2 @@
+# PdfReportInAndroid
+Text Software is a world-leading specialist in programmable PDF software libraries for professionals. Its solutions are used in sales and marketing, legal and governance, finance, IT, operations and HR by a diverse customer base that includes medical institutions, banks, governments and technology companies. The iText solution was first designed by tech visionary Bruno Lowagie in 2000 and has known continuous growth in its 15 years of existence, coupled with a healthy desire to remain at the forefront of product innovation.
